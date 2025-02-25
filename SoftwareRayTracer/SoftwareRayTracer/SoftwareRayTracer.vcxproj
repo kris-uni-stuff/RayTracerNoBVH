@@ -138,10 +138,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bmp.h" />
-    <ClInclude Include="BVH.h" />
     <ClInclude Include="math.h" />
     <ClInclude Include="obj.h" />
+    <ClInclude Include="solution.h" />
     <ClInclude Include="tiny_obj_loader.h" />
+    <ClInclude Include="utility.h" />
     <ClInclude Include="verts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
